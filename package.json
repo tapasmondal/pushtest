@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.6.1",
-    "react-native": "0.57.5",
+    "react-native": "0.70.2",
     "react-native-ibm-mobilefirst": "^8.0.2018111809",
     "react-native-ibm-mobilefirst-push": "^8.0.2019102104"
   },
